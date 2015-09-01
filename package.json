@@ -1,0 +1,18 @@
+{
+  "name": "add-opener-test",
+  "main": "./lib/add-opener-test",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "add-opener-test:toggle"
+  },
+  "repository": "https://github.com/atom/add-opener-test",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
